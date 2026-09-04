@@ -38,16 +38,10 @@ A comprehensive repository containing Java-based solutions and standard practice
 
 ---
 
-## 📂 Repository Structure
-
-- ![Practice](https://img.shields.io/badge/Problems-Categorized_by_Difficulty-informational?style=flat-square) Practice problems categorized by OOP concepts and exam difficulty levels.
-- ![Clean Code](https://img.shields.io/badge/Code-Well--Commented-success?style=flat-square) Clear, well-commented code snippets demonstrating standard syntax and best practices.
-
----
-
 ## 🚀 Getting Started
 
 1. **Clone the repository:**
    ```bash
-   git clone "[https://github.com/AkkhileshCod3s/Object-Oriented-Programming.git](https://github.com/AkkhileshCod3s/Object-Oriented-Programming.git)"
+   git clone "[https://github.com/AkkhileshCod3s/Object-Oriented-Programming.git]
+   (https://github.com/AkkhileshCod3s/Object-Oriented-Programming.git)"
    cd Object-Oriented-Programming

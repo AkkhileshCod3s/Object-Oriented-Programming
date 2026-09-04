@@ -1,6 +1,6 @@
 # Java Object-Oriented Programming & Exam Preparation
 
-![Language: Java](https://img.shields.io/badge/Language-Java-ED8B00?style=for-the-badge&logo=java&logoColor=Red)
+![Language: Java](https://img.shields.io/badge/Language-Java-ED8B00?style=for-the-badge&logo=java&logoColor=White)
 ![Repo Size](https://img.shields.io/badge/Repo_Size-42_KB-orange?style=for-the-badge)
 ![Exam Prep](https://img.shields.io/badge/Exam_Prep-University_%26_Technical-purple?style=for-the-badge)
 

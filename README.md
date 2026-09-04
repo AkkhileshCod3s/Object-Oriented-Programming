@@ -1,9 +1,6 @@
 # Java Object-Oriented Programming & Exam Preparation
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![JDK 8+](https://img.shields.io/badge/JDK-8%2B-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
 A comprehensive repository containing Java-based solutions and standard practice problems covering core Object-Oriented Programming (OOP) concepts. Designed specifically to aid in mastering OOP fundamentals and preparing for university examinations, technical assessments, and interviews.
 
@@ -37,5 +34,5 @@ A comprehensive repository containing Java-based solutions and standard practice
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/AkkhileshCod3s/Object-Oriented-Programming.git](https://github.com/AkkhileshCod3s/Object-Oriented-Programming.git)
+   git clone "https://github.com/AkkhileshCod3s/Object-Oriented-Programming.git"
    cd Object-Oriented-Programming

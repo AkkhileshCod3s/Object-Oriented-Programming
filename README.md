@@ -2,7 +2,7 @@
 
 ![Language: Java](https://img.shields.io/badge/Language-Java-red?style=for-the-badge&logo=java&logoColor=white)
 ![Repo Size](https://img.shields.io/badge/Repo_Size-42_KB-green?style=for-the-badge)
-![Exam Prep](https://img.shields.io/badge/Exam_Prep-UniversityExams-purple?style=for-the-badge)
+![Exam Prep](https://img.shields.io/badge/Exam_Prep-University-purple?style=for-the-badge)
 
 A comprehensive repository containing Java-based solutions and standard practice problems covering core Object-Oriented Programming (OOP) concepts. Designed specifically to aid in mastering OOP fundamentals and preparing for university examinations, technical assessments.
 

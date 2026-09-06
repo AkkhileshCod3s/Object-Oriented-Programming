@@ -2,8 +2,6 @@
 
 This question bank covers the major **star, number, alphabet, hollow, pyramid, diamond, triangle, and mixed pattern** variations commonly asked in college coding examinations.
 
-For every question, the predefined code is intentionally limited to **`class Main` and `main()` only**, as requested.
-
 ---
 
 # **1. Solid Right-Angled Star Triangle**

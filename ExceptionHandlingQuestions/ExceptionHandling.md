@@ -19,9 +19,6 @@
 - multiple exceptions
 - practical validation problems
 
-> **Format:** Every question contains a complete predefined code skeleton. Write your solution only in the marked sections.  
-> **Note:** All code in this file uses one consistent Markdown/code-block style.
-
 ---
 
 # SECTION A — try, catch, finally & Predefined Exceptions

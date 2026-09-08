@@ -1,14 +1,6 @@
 # Java Collections --- Set (HashSet, LinkedHashSet, TreeSet)
 ### 25 College Exam Coding Questions
 
-> **Goal:** Complete coverage of `Set` interface implementations as
-> tested in college coding exams --- `HashSet`, `LinkedHashSet`, and
-> `TreeSet`. Some questions give **predefined code** with
-> `// Write your code here` stubs (matching your reference format);
-> others give **only the problem statement** and expect you to write
-> the entire program yourself, including `import` statements, the
-> class structure, and `main()` --- this is also a common exam pattern
-> where no skeleton is provided.
 
 ## Coverage Map
 
@@ -1641,12 +1633,3 @@ After solving all 25, you should be comfortable with:
 - [ ] `TreeSet<String>` natural lexicographic ordering
 - [ ] Converting a `Set` back to a `List`/array
 - [ ] Full end-to-end "read → deduplicate → sort → print" programs
-
-**Exam strategy:** First decide *which* Set implementation the question
-needs --- if order doesn't matter, use `HashSet`; if insertion order
-must be preserved, use `LinkedHashSet`; if sorted output is required
-(or navigation methods like `higher()`/`floor()` are involved), use
-`TreeSet`. When no skeleton is given, always start with the required
-`import` statements (`java.util.HashSet`, `java.util.LinkedHashSet`,
-`java.util.TreeSet`, `java.util.Scanner`, etc.) before writing your
-class and `main()`.

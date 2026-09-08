@@ -1,12 +1,6 @@
 # Java OOP --- 35 College Exam Coding Questions
 ### Inheritance • Abstraction • Encapsulation • Polymorphism • Interfaces
 
-> **Goal:** Complete coverage of the five core OOP pillars as tested in
-> college coding exams. Questions follow the structure shown in your
-> reference file: problem statement, input format, constraints, output
-> format, sample I/O, and predefined Java code with `// Write your code
-> here` stubs.
-
 ## Coverage Map
 
 **Inheritance (Q1--Q7):** single inheritance, multilevel inheritance,
@@ -2723,9 +2717,3 @@ After solving all 35, you should be comfortable with:
 - [ ] Interface extending interface
 - [ ] Interface reference polymorphism
 - [ ] Interface constants (`public static final`)
-
-**Exam strategy:** For each question, first identify which pillar is
-being tested, the class/interface hierarchy involved, and whether
-`super`, `this`, casting, or a reference-type trick is required. Then
-write only the missing logic in the provided structure — never rename
-the `Main` class or change method signatures.
